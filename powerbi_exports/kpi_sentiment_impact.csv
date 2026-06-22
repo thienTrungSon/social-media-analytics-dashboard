@@ -1,0 +1,4 @@
+sentiment,total_posts,avg_engagement,avg_likes,avg_shares,avg_comments
+Positive,2503,12.41,7804.0,829.0,347.0
+Negative,750,11.39,7162.0,818.0,332.0
+Neutral,1747,10.17,7315.0,852.0,333.0

@@ -1,0 +1,13 @@
+account_type,platform,total_posts,avg_engagement,avg_likes,avg_followers
+Not Verified,TikTok,561,41.21,26217.0,256557.0
+Not Verified,YouTube,339,10.93,10145.0,263482.0
+Not Verified,Instagram,973,7.18,4961.0,245382.0
+Not Verified,Facebook,719,6.15,4176.0,242963.0
+Not Verified,Twitter,743,4.03,2386.0,254864.0
+Not Verified,LinkedIn,358,1.26,1035.0,254500.0
+Verified ,TikTok,197,41.72,24612.0,250873.0
+Verified ,Instagram,310,9.08,4889.0,248591.0
+Verified ,Facebook,265,8.09,4073.0,244353.0
+Verified ,YouTube,140,7.57,9569.0,266111.0
+Verified ,Twitter,251,4.93,2519.0,242592.0
+Verified ,LinkedIn,144,1.42,1037.0,230842.0
